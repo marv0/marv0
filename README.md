@@ -8,14 +8,13 @@
 </h1>
 
 <p align="center">
-  Hi, I'm Abdel-Haleem, Computer Engineer & Software Developer from EGYPT
+  Hello, world! 👋 
   <br>
+  I’m a software engineer and entrepreneur on a mission to empower 1M+ young people using sports, technology and entrepreneurship as transformative tools.
   <br>
-  👨‍🎓 I'm currently studying for a Bachelor's degree in Mansoura University Computer Science and Control System Engineering Department (CCSED)
+  👨‍🎓 I'm currently refining my web development skills at @MoringaSchool
   <br>
-  💻 I love Writing code, Hardware and learning anything about them 😊
-  <br>
-  📚 I’m currently focusing on Data Science 
+  💻 I love building stuff and constantly learning and exploring the tech world! 😊
   <br>
   📫 How to reach me 👇
 </p>
