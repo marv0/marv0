@@ -19,7 +19,7 @@
   <img title="Visual Studio Code" height="25" src="images/vscode.png">
   <img title="Microsoft Visual Studio" height="25" src="images/visualstudio.png">
 </p>
-<hr>
+
 
 <h2>Reach Out To Me 👇</h2>
 <p> <a href="https://www.linkedin.com/in/marvin-ogot/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=23></a> <a href="mailto:marvin.ogot@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=23></a>
@@ -27,8 +27,6 @@
    <a href="https://twitter.com/mrmarv0"><img src="https://img.shields.io/badge/Twitter-222222?style=for-the-badge&logo=twitter&logoColor=white" height=23></a>
 <a href="https://github.com/marv0/"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height=23></a>
 <a href="https://www.youtube.com/watch?v=p0uAJ6Eu4Rs"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height=23></a>
-<hr>
-<hr>
 
 <p>
   <a href="https://www.buymeacoffee.com/marv0" target="_blank" ><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy marv0 a coffee" width="230"></a>
