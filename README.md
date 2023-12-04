@@ -15,12 +15,7 @@
 <a href="https://www.youtube.com/watch?v=p0uAJ6Eu4Rs"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height=23></a>
 
 <p>
-  <a href="https://www.buymeacoffee.com/marv0" target="_blank" ><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy marv0 a coffee" width="230"></a>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=marv0/marv0" alt="marv0"/>     <a href="https://www.github.com/marv0" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/marv0?logo=github&style=for-the-badge&color=282b2f&labelColor=0d1117" alt="GitHub followers badge" /></a>    
 </p>
 
-<p>
-<img src="https://visitor-badge.laobi.icu/badge?page_id=marv0/marv0" alt="marv0"/>       
-</p>
-<p>
-  <a href="https://www.github.com/marv0" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/marv0?logo=github&style=for-the-badge&color=282b2f&labelColor=0d1117" alt="GitHub followers badge" /></a>
-</p>
+
