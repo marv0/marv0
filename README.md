@@ -15,7 +15,8 @@
 <a href="https://www.youtube.com/watch?v=p0uAJ6Eu4Rs"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height=23></a>
 
 <p>
-<img src="https://visitor-badge.laobi.icu/badge?page_id=marv0/marv0" alt="marv0"/>     <a href="https://www.github.com/marv0" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/marv0?logo=github&style=for-the-badge&color=282b2f&labelColor=0d1117" alt="GitHub followers badge" /></a>    
+<a href="https://www.github.com/marv0" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/marv0?logo=github&style=for-the-badge&color=282b2f&labelColor=0d1117" alt="GitHub followers badge" /></a> 
+<img src="https://visitor-badge.laobi.icu/badge?page_id=marv0/marv0" alt="marv0"/>        
 </p>
 
 
