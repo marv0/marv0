@@ -1,4 +1,4 @@
-<h2>Hello, world!👋 </h2><br>
+<h2>Hello, world!👋 I’m a software engineer and entrepreneur on a mission to empower 1M+ young people using sports, technology, and entrepreneurship as transformative tools.</h2><br>
 <p>
   I’m a software engineer and entrepreneur on a mission to empower 1M+ young people using sports, technology, and entrepreneurship as transformative tools.
   <br>
