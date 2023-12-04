@@ -6,19 +6,6 @@
   <br>
   💻 I love building stuff and constantly learning and exploring the tech world! 😊
 </p>
-  
-<h2>Languages & Frameworks & Tools</h2><br>
-<p>
-  <img title="Javascript" height="25" src="images/javascript.svg">
-  <img title="Python" height="25" src="images/python-original.svg">
-  <img title="HTML5" height="25" src="images/html5.svg">
-  <img title="CSS" height="25" src="images/css.svg">
-  <img title="JSON" height="25" src="images/json.svg">
-  <img title="Git" height="25" src="images/git-original.svg">
-  <img title="GitHub" height="25" src="images/github.svg">
-  <img title="Visual Studio Code" height="25" src="images/vscode.png">
-</p>
-
 
 <h2>Reach Out To Me</h2>
 <p> <a href="https://www.linkedin.com/in/marvin-ogot/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=23></a> <a href="mailto:marvin.ogot@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=23></a>
