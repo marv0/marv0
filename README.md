@@ -1,6 +1,6 @@
 <h2>Hello, world!👋 </h2><br>
 <p>
-  I’m Marvin Ogot, a software engineer and entrepreneur on a mission to empower 1M+ young people using sports, technology, and entrepreneurship as transformative tools.
+  I’m a software engineer and entrepreneur on a mission to empower 1M+ young people using sports, technology, and entrepreneurship as transformative tools.
   <br>
   👨‍🎓 I'm currently refining my web development skills at @MoringaSchool
   <br>
