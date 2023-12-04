@@ -1,5 +1,5 @@
 <img src="https://visitor-badge.laobi.icu/badge?page_id=marv0/marv0" alt="marv0"/>     
-<h2>Hello, world!👋 I’m a software engineer and entrepreneur on a mission to empower 1M+ young people using sports, technology, and entrepreneurship as transformative tools.</h2>
+<h3>Hello, world!👋 I’m a software engineer and entrepreneur on a mission to empower 1M+ young people using sports, technology, and entrepreneurship as transformative tools.</h3>
 <h3>I'm constantly learning and creating while exploring the dynamic world of technology! At the moment, I'm refining my web development skills at @MoringaSchool 👨‍🎓</h3>
 
 <p> <a href="https://www.linkedin.com/in/marvin-ogot/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=23></a> <a href="mailto:marvin.ogot@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=23></a>
