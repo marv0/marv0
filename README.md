@@ -1,7 +1,7 @@
 <img src="https://visitor-badge.laobi.icu/badge?page_id=marv0/marv0" alt="marv0"/>     
 <strong>Hello, world!👋</strong>
 <br>
-<br>I’m Marvin Ogot, a software engineer and entrepreneur on a mission to empower 1M+ young people using sports, technology, and entrepreneurship as transformative tools.
+<br>I’m a software engineer and entrepreneur on a mission to empower 1M+ young people using sports, technology, and entrepreneurship as transformative tools.
 <br>
 <br>
 As a full-stack engineer, my toolkit consists of Python and Flask for developing scalable server-side solutions and effecient RESTful APIs while for the front end, React allows me to create rich and interactive user interfaces.
