@@ -2,9 +2,9 @@
 <strong>Hello, world!👋</strong> I’m a software engineer and entrepreneur on a mission to empower 1M+ young people using sports, technology, and entrepreneurship as transformative tools.
 <br>
 <br>
-As a full-stack engineer, I specialize in building robust web applications from front to back. On the backend, I'm proficient in designing and developing RESTful APIs using Python with frameworks like Flask. I've built scalable server-side applications to handle data management, authentication, and business logic efficiently.
+As a full-stack engineer, my toolkit consists of Python and Flask for developing scalable server-side solutions and effecient RESTful APIs while for the front end, React because allows me to create rich and interactive user interfaces.
 <br>
-For the front end, I leverage React to create dynamic and interactive user interfaces and integrate with backend APIs to deliver seamless user experiences.
+My expertise spans the full development lifecycle, from building powerful backend architectures to creating engaging user experiences on the frontend.
 <br>
 <p> <a href="https://www.linkedin.com/in/marvin-ogot/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=23></a> <a href="mailto:marvin.ogot@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=23></a>
 <a href="http://wa.me//+254700500611"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height=23></a>
