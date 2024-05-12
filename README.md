@@ -1,5 +1,5 @@
 <img src="https://visitor-badge.laobi.icu/badge?page_id=marv0/marv0" alt="marv0"/>     
-<strong>Hello, world!👋</strong> I’m a software engineer and entrepreneur on a mission to empower 1M+ young people using sports, technology, and entrepreneurship as transformative tools.
+<strong>Hello, world!👋</strong> I’m a software engineer and entrepreneur on a mission to empower <strong>1M+ young people</strong> using sports, technology, and entrepreneurship as transformative tools.
 <br>
 <br>
 <strong>I'm constantly learning and creating while exploring the dynamic world of technology! At the moment, I'm refining my web development skills at @MoringaSchool.👨‍🎓</strong>
