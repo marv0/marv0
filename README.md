@@ -5,7 +5,8 @@
 <br>
 <br>
 As a full-stack engineer, my toolkit consists of Python and Flask for developing scalable server-side solutions and effecient RESTful APIs while for the front end, React allows me to create rich and interactive user interfaces.
-My expertise spans the full development lifecycle, from building powerful backend architectures to creating engaging user experiences on the frontend.
+<br>
+<br>My expertise spans the full development lifecycle, from building powerful backend architectures to creating engaging user experiences on the frontend.
 <br>
 <br>
 <p> <a href="https://www.linkedin.com/in/marvin-ogot/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=23></a> <a href="mailto:marvin.ogot@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=23></a>
