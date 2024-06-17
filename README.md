@@ -14,6 +14,7 @@ As a full-stack engineer, my toolkit consists of Python and Flask for developing
 <br>
 <p> 
    <blockquote class="twitter-tweet"><a href="https://twitter.com/TwitterDev/status/1234567890123456789"></a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+   [![Alt text](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
 
    <a href="https://www.linkedin.com/in/marvin-ogot/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=23></a> 
    <a href="https://twitter.com/mrmarv0"><img src="https://img.shields.io/badge/Twitter-222222?style=for-the-badge&logo=twitter&logoColor=white" height=23></a>
