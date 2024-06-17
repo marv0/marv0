@@ -1,5 +1,7 @@
 <img src="https://visitor-badge.laobi.icu/badge?page_id=marv0/marv0" alt="marv0"/>     
 <strong<em>Hello, world!👋</em></strong>
+<strong><em>This text is bold and italic using HTML tags.</em></strong>
+
 <br>
 <br>
 <em>
