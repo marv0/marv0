@@ -3,7 +3,7 @@
 <br>
 <br>
 <em>
-Marvin is an entrepreneur on a mission to empower 1M+ young people using sports, technology, and entrepreneurship as transformative tools.
+I’m a software engineer and entrepreneur on a mission to empower 1M+ young people using sports, technology, and entrepreneurship as transformative tools.
 <br>
 <br>
 As a full-stack engineer, my toolkit consists of Python and Flask for developing scalable server-side solutions and efficient RESTful APIs while for the front end, React allows me to create rich and interactive user interfaces.
