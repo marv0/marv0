@@ -1,14 +1,12 @@
-<img src="https://visitor-badge.laobi.icu/badge?page_id=marv0/marv0" alt="marv0"/>   
+![image](https://github.com/user-attachments/assets/e4aefbce-7f31-487d-8dc9-6eb142aac836)<img src="https://visitor-badge.laobi.icu/badge?page_id=marv0/marv0" alt="marv0"/>   
 <strong><em>Hello, world!👋</em></strong>
 <br>
 <br>
 <em>
-I’m a software engineer and entrepreneur on a mission to empower 1M+ young people using sports, technology, and entrepreneurship as transformative tools.
+I’m a software engineer and entrepreneur driven by a bold mission: to empower 1M+ young people through the transformative power of sports, technology, and entrepreneurship.
 <br>
 <br>
-As a full-stack engineer, my toolkit consists of Python and Flask for developing scalable server-side solutions and efficient RESTful APIs while for the front end, React allows me to create rich and interactive user interfaces for the web.
-<br>
-<br>My expertise spans the full web development lifecycle, from building powerful backend architectures to creating engaging user experiences on the front end.
+As a full-stack engineer, I craft scalable, high-performance web solutions by combining robust backend architectures using Python and Flask with dynamic, interactive frontend experiences powered by React. My expertise spans the entire web development lifecycle, seamlessly bridging server-side efficiency with intuitive user interfaces. Beyond development, I’m passionate about leveraging technology for social impact, creating innovative solutions that inspire and drive meaningful change.
 </em>
 <br>
 <br>
