@@ -1,6 +1,6 @@
 <img src="https://visitor-badge.laobi.icu/badge?page_id=marv0/marv0" alt="marv0"/> 
 
-<strong><em>Hello, world!👋</em></strong>
+### <em>Hello, World!👋</em>
 <br>
 <br>
 <strong><em>
@@ -11,7 +11,7 @@ As a full-stack engineer, I craft scalable, high-performance web solutions by co
 </em></strong>
 <br>
 <br>
-### ⚙️ &nbsp;GitHub Analytics
+###<em> ⚙️ &nbsp;GitHub Analytics</em>
 
 <p>
 <a href="https://github.com/marv0">
