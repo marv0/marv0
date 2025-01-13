@@ -2,7 +2,6 @@
 
 ### <em>Hello, World!👋</em>
 <br>
-<br>
 <strong><em>
 Marvin is a software engineer and entrepreneur driven by a bold mission: to empower 1M+ young people through the transformative power of sports, technology, and entrepreneurship.
 <br>
@@ -11,7 +10,7 @@ As a full-stack engineer, I craft scalable, high-performance web solutions by co
 </em></strong>
 <br>
 <br>
-###<em> ⚙️ &nbsp;GitHub Analytics</em>
+### <em> ⚙️ &nbsp;GitHub Analytics</em>
 
 <p>
 <a href="https://github.com/marv0">
