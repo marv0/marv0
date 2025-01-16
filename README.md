@@ -1,6 +1,6 @@
 <img src="https://visitor-badge.laobi.icu/badge?page_id=marv0/marv0" alt="marv0"/> 
 
-### <em>Hello, World!👋 Marvin is a software engineer and entrepreneur driven by a bold mission: to empower 1M+ young people through the transformative power of sports, technology, and entrepreneurship. </em>
+### <em>Hello, World!👋 I'm an aspiring software engineer and entrepreneur driven by a bold mission: to empower 1M+ young people through the transformative power of sports, technology, and entrepreneurship. </em>
 
 <br>
 As a full-stack engineer, I craft scalable, high-performance web solutions by combining robust backend architectures using Python/Flask with dynamic and interactive frontend experiences powered by React.
