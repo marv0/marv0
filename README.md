@@ -2,9 +2,9 @@
 
 ### <em> Hello, world!👋 </em>
 
-### <em> Marvin is a software engineer and entrepreneur driven by a bold mission: to empower 1M+ young people through the transformative power of sports, technology, and entrepreneurship. </em>
+#### <em> Marvin is a software engineer and entrepreneur driven by a bold mission: to empower 1M+ young people through the transformative power of sports, technology, and entrepreneurship. </em>
 
-### <em> As a software engineer, I craft scalable, high-performance web solutions by combining robust backend architectures using Python/Flask with dynamic and interactive frontend experiences powered by React. </em>
+#### <em> As a software engineer, I craft scalable, high-performance web solutions by combining robust backend architectures using Python/Flask with dynamic and interactive frontend experiences powered by React. </em>
 
 <p>
 <a href="https://github.com/marv0">
