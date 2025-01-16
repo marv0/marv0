@@ -2,8 +2,7 @@
 
 ### Hello, World!👋 <br><br> I'm an aspiring software engineer and entrepreneur driven by a bold mission to: <em> to empower 1M+ young people through the transformative power of sports, technology, and entrepreneurship. </em>
 
-As a full-stack engineer, I craft scalable, high-performance web solutions by combining robust backend architectures using Python/Flask with dynamic and interactive frontend experiences powered by React.
-</em>
+### As a software engineer, I craft scalable, high-performance web solutions by combining robust backend architectures using Python/Flask with dynamic and interactive frontend experiences powered by React.
 
 <p>
 <a href="https://github.com/marv0">
